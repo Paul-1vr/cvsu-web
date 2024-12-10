@@ -1,0 +1,128 @@
+body{
+    background-color: green;
+    margin: 0;
+}
+
+nav{
+    background-color: #2df02d;
+    padding: 15px 25px;
+    background: fill;
+}
+
+.icon-container{
+    display: inline-block;
+}
+
+.brand-title{
+    display: inline-block;
+    margin: 0;
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    top: -35px;
+    left: 5px;
+}
+
+.titles:hover{
+    color: yellow;
+}
+
+.links-container{
+    float: right;
+    position: relative;
+    top: 55px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+    margin: -2px 20px;
+    transition: 0.2s;
+}
+
+.btn-links{
+    text-decoration: none;
+    color: green;
+    margin: 0 8px;
+}
+
+.btn-links:hover{
+    color: yellow;
+    
+}
+
+.main-container{
+    text-align: center;
+    color: yellow;
+}
+
+.main-title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+}
+
+.history{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 25px;
+}
+
+.vision, .mission{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+.main-container-1{
+    text-align: center;
+    color: yellow;
+}
+
+.vis, .mis{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+}
+
+.main-container-2{
+    text-align: center;
+    color: yellow;
+}
+
+.tenets{
+    text-decoration: underline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+
+.ten{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 44px;
+}
+
+.main-container-3{
+    color: yellow;
+    text-align: center;
+}
+
+.logo{
+    text-decoration: underline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+
+.logoparts{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+.main-container-4{
+    text-align: center;
+    color: yellow;
+}
+
+.rules{
+    text-decoration: underline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.regs{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
